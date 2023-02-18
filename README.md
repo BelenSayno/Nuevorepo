@@ -1,2 +1,2 @@
 # nuevorepo
-este es un repo de prueba
+este es un repo de prueba para practicar 
